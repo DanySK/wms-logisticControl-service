@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/WMS-Corporation/wms-logisticControl-service/compare/v1.0.0...v1.0.1) (2024-05-04)
+
+
+### Bug Fixes
+
+* Updated method that modified shelf data ([ba03240](https://github.com/WMS-Corporation/wms-logisticControl-service/commit/ba03240b4ef34e5d95bbfeb2f16f8b467707faaa))
+
 ## 1.0.0 (2024-05-03)
 
 
